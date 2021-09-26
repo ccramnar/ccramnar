@@ -8,6 +8,8 @@
 2) A File Browser - implemented using Kotlin and JavaFX
 3) My work on Operating System: os161, using C. 
 
+Please contact me at ccramnar@uwaterloo.ca for access to these repositories. 
+
 <!---
 ccramnar/ccramnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
