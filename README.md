@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cy
-- 👀 I’m interested in software development, game development and APIs! 
-- 🌱 I’m currently learning JavaFX and Kotlin.
+- 👀 I’m interested in software development and APIs! 
+- 🌱 I’m currently learning Api development along with MongoDb and Mongoose!
 - 💞️ I’m looking to collaborate on anything! I'm eager to learn something new!
 - 📫 You can reach me at ccramnar@uwaterloo.ca
 - There are some private repositories on my Github which include:
