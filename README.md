@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Cy
 - 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on anything! I'm eager to learn something new!
+- 💞️ I’m looking to collaborate on anything! I'm eager to learn something 
 - 📫 You can reach me at ccramnar@uwaterloo.ca
+- Currently freelancing and creating websites for photographers!
 
 
 <!---
